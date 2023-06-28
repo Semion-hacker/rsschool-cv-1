@@ -1,3 +1,3 @@
-Semion Zavaley
-+375293203957
-I want to get knowledge.
+Semion Zavaley <br>
++375293203957 <br>
+I want to get knowledge. And work in IT.
