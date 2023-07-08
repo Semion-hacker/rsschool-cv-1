@@ -1,3 +1,8 @@
-Semion Zavaley <br>
-+375293203957 <br>
-I want to get knowledge. And work in IT. I'm good at thinking. Very interesting IT field.
+# Semion Zavaley
+![Semion](IMG_20230105_162750.jpg "SemionZavaley")
+==================================================
+### **Contacts**
+| phone | E-mail | Discord |
+|-------|--------|---------|
+| +375293203957 | obucheniekurs7@gmail.com | XxSMSxX#7022 |
+## briefly about me
