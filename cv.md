@@ -6,7 +6,7 @@
 |-------|--------|---------|
 | +375293203957 | obucheniekurs7@gmail.com | XxSMSxX#7022 |
 
-## briefly about me
+## Briefly about me
 My name is Semen, as you already read. I am 16 years old, and on July 31st I will be 17.
 
 I study in the 11th grade of the district gymnasium, in Belarus. I have an average grade of 9.3.
