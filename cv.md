@@ -1,5 +1,5 @@
 # Semion Zavaley
-![Semion](IMG_20230105_162750.jpg "SemionZavaley")
+![Semion](IMG_20230522_212231_806.jpg "SemionZavaley")
 
 ### **Contacts**
 | phone | E-mail | Discord |
@@ -22,7 +22,7 @@ I just like it when everything is beautiful. Good luck to everyone.
   * Git, GitHub
   * VS Code
 ## Code example:
-Python task:
+### Python task:
 *The program takes a string of text as input.*
 
 *If the letter "f" appears only once in this string, output its index.*
@@ -32,4 +32,35 @@ Python task:
 *last occurrence on the same line, separated by a space.*
 
 *If the letter "f" does not appear in the string, output "NO".*
-## solution:
+### Solution:
+```
+s = input()
+chi = 0
+if s.count('f') == 1:
+    for i in range(len(s)):
+        if s[i] != 'f':
+            chi += 1
+        else:
+            break
+    print(chi)
+else:
+    if s.count('f') != 0:
+        print(s.find('f'), end = ' ')
+        print(s.rfind('f'))
+    else:
+        print('NO')
+```
+## Experience :
+***I am involved in a small project as a front-end developer.***
+## Projects:
+- **CV**
+  - HTML
+  - Git
+  - CSS
+  - Markdown
+## Education:
+***Kostyukovichi District State Gymnasium. Finished 10th grade.***
+## Languages:
+- Belorussian
+- Russian
+- English (A1)
